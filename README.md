@@ -14,6 +14,13 @@ This project was created with:
 - CSS3
 - Git, GitHub and GitHub Pages
 
-## Installation
+## Screenshots
 
-### Run Locally
+<details>
+<summary>Screenshots</summary>
+<img src="README\FistPage.png">
+<img src="README\SecondPage.png">
+  <img src="README\ThirdPage.png">
+  <img src="README\ForthPage.png">
+
+</details>
