@@ -20,7 +20,7 @@ This project was created with:
 <summary>Screenshots</summary>
 <img src="README\FistPage.png">
 <img src="README\SecondPage.png">
-  <img src="README\ThirdPage.png">
-  <img src="README\ForthPage.png">
+<img src="README\ThirdPage.png">
+<img src="README\ForthPage.png">
 
 </details>
