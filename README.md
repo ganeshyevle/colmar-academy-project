@@ -4,6 +4,7 @@
 
 This project was completed as part of `Codecademy's Build a Website with HTML, CSS, and Github Pages Path`. This was the learn how to build websites capstone project, in which I applied everything I had learned to build a responsive site from scratch. I am tasked with designing and creating the landing page for a new school.
 
+I have created wireframes for this project [here](https://github.com/ganeshyevle/colmar-academy-project/blob/main/wireframes/Colmar%20Academy%20Project%20Wireframes.pdf)
 For this project you will implement the site specified by the wireframes and make all remaining design decisions to complete the site. You can find the wireframes for this project [here](https://content.codecademy.com/courses/freelance-1/capstone-2/colmar-academy-spec.png).
 
 ## Technologies
